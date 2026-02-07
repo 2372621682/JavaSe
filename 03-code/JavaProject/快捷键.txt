@@ -1,0 +1,29 @@
+1.shift + enter :光标切换到下一行
+2.ctrl + tab ：切换文件
+3.ctrl + alt + L :代码格式化
+4.ctrl + d ：当前行复制到下一行
+5.ctrl + y ：删除当前行
+6.ctrl + shift + f10:运行
+7.ctrl +shift + f12 :当前窗口最大化和还原
+8.ctrl + n :搜索类
+9.alt + insert:
+    1:src下：创建包和类等
+    2.类中：创建构造器，get和set方法等
+10.ctrl + p :显示形参列表
+11.ctrl + shift + enter :添加分号
+12.ctrl + o :方法重写
+13.ctrl + n ：搜索类
+14.ctrl + f12: 显示类的所有方法
+15.ctrl + shift + 上下箭头：换行
+16.ctrl + shift + u :转换大小写
+17.循环快捷键：
+    1.itar :普通for循环
+    2.iter :增强for循环
+18.ctrl + h :显示类的继承关系
+19.ctrl + alt + t :
+    1.分支
+    2.循环
+    3.异常
+    ...
+20.ctrl + atl + o :清除多余导入
+21.soutc : System.out::println
